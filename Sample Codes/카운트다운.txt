@@ -1,0 +1,13 @@
+CM n을 입력 받아 n부터 1까지 카운트다운을 수행합니다.
+SE 1
+IN
+JE 9
+CH 10
+OU
+PU 1
+MI
+PU 10
+OA
+PO
+JU 9 -1
+JE 10

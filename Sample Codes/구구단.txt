@@ -1,0 +1,39 @@
+CM n을 입력 받아 구구단의 n단을 출력합니다.
+SE 1
+IN
+SE 2
+PU 1
+
+FL 1
+CM REGION: 출력
+SE 1
+CO 3
+OU
+PU 42
+OA
+PO
+SE 2
+CO 3
+OU
+SE 3
+MU
+PU 61
+OA
+PO
+OU
+PU 10
+OA
+PO
+CM ENDREGION
+SE 2
+PU 1
+PL
+CO 3
+SE 3
+PU 10
+MI
+CH 100
+PO
+GO 1
+JE 100
+

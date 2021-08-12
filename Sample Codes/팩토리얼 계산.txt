@@ -1,0 +1,18 @@
+CM n을 입력받아 n팩토리얼을 계산합니다.
+SE 1
+IN
+CO 2
+JE 9
+SE 2
+CO 1
+SE 1
+PU 1
+MI
+CO 2
+CH 10
+MU
+JU 9 -1
+JE 10
+SE 1
+PO
+OU
